@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">4g Info Imei</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_accout">¿No tienes cuenta?, </string>
+    <string name="create_here"> crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Ùnete</string>
+    <string name="toolbar_tittle_createacount">crear cuenta</string>
+    <string name="username_card">Eduardo Espinoza</string>
+    <string name="firsword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumbreecard_card">Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Profile</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imei">Imei</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="operadora">Operadora</string>
+    <string name="pasis">Pais</string>
+    <string name="text_button_createregistro">Registrar</string>
+    <string name="title_activity_registro_imei">Registro_imei</string>
+</resources>

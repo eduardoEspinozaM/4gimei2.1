@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/desbloquear"
+            android:title="Desbloquear"
+            android:icon="@drawable/desbloquear"
+            android:checked="false"
+
+            >
+        </item>
+        <item
+        android:id="@+id/registrar"
+        android:title="Registrar Imei"
+        android:icon="@drawable/registrar"
+        android:checked="false"
+        >
+    </item>
+        <item
+            android:id="@+id/registrar_imei"
+            android:title="Registrar Imei"
+            android:icon="@drawable/registrar"
+            android:checked="false"
+            >
+        </item>
+
+        <item
+            android:id="@+id/reportar"
+            android:title="Reportar"
+            android:icon="@drawable/reportar"
+            android:checked="false"
+            >
+        </item>
+
+        <item
+            android:id="@+id/sesion"
+            android:title="Cerrar cesion"
+            android:icon="@drawable/exit"
+            android:checked="false"
+            >
+        </item>
+
+    </group>
+
+</menu>
